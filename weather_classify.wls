@@ -2,7 +2,6 @@
 (* ::Package:: *)
 
 (* ::Input:: *)
-(*(*it somewhat improving accuracy by picking another sample data ,idk why*)*)
 (*(*set directory for importing file*)*)
 (*SetDirectory[NotebookDirectory[]];*)
 (*myImport=Import["weather.xlsx",{"Data",1}] [[2;;]];*)
