@@ -60,7 +60,7 @@
 (*(*accuracy test*)*)
 (*myAccuracy=ClassifierMeasurements[myClassify,myDataTest];*)
 (*myAccuracy["Report"]*)
-(*myAccuracy/@{"ResidualPlot"}*)
+
 
 
 (* ::Input:: *)
